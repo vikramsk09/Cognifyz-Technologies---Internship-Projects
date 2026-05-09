@@ -1,0 +1,4 @@
+Hello everyone, my name is Vikram Singh Kushwaha
+I am learning Python Programming Language, to become a Data Scientist.
+Hope you all enjoyed my work. 
+We'll meet again soon! Till then, take care and goodbye!
